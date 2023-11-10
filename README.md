@@ -64,7 +64,7 @@ Each machine has has its own role, the machine sending requests is reffered to a
 
 8. Next, create a new user `tammy` with hostname as the private IP address and give the user a password `PassWord.123`
 
-   - Run `CREATE USER 'tammy'@'172.31.9.59` IDENTIFIED BY `PassWord.123`
+   - Run `CREATE USER 'tammy'@'172.31.9.59 IDENTIFIED BY PassWord.123` 
 
    Give the user permission over `new_database` database that we created.
    - Run `GRANT ALL ON new_database.*TO 'tammy'@'172.31.9.59'`
