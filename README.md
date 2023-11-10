@@ -18,10 +18,12 @@ Client-Server Architecture with MySQL
 ![images](images/Screenshot_6.png)
 
 
+![images](images/Screenshot_9.png)
+
+
 ![images](images/Screenshot_7.png)
 
 
 ![images](images/Screenshot_8.png)
 
 
-![images](images/Screenshot_9.png)
