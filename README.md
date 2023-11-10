@@ -1,6 +1,9 @@
 # MySQL-client-server-architecture
 Client-Server Architecture with MySQL
 
+![images](images/MySQL-Client-Requests.png)
+
+
 In this project we will implement a Client Server Architecture using MySQL Database Management System.
 
 
