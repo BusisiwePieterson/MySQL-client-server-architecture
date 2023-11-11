@@ -69,7 +69,7 @@ Each machine has has its own role, the machine sending requests is reffered to a
    Give the user permission over `new_database` database that we created.
    - Run `GRANT ALL ON new_database.*TO 'tammy'@'172.31.9.59'`
 
-   - RUN `select user, hist FROM mysql.user;` to check if the user has been craeted.
+   - RUN `select user, host FROM mysql.user;` to check if the user has been created.
     
 
 
